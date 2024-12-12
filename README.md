@@ -13,3 +13,6 @@ This is meant to serve as a structured template for an ELT data pipeloine, With 
 ## Data Flow
 I've used the Bronze, Silver, and Gold data Architecture model.
 Comprehensive Blog Post: TO BE CREATED
+
+## Resources
+This project is inspired by [data-pipeline-demo](https://github.com/nydasco/data-pipeline-demo/tree/main), Thanks to nydasco
